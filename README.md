@@ -36,12 +36,6 @@ The website features a modern UI with smooth animations and interactive elements
 
 ---
 
-## 🌍 Live Website
-
-👉 https://yourusername.github.io/reponame
-
----
-
 ## 📬 Contact
 
 - 📧 Email: smit.kothari@aissmsioit.org  
